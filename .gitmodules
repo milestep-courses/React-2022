@@ -1,0 +1,3 @@
+[submodule "random_user_api"]
+	path = random_user_api
+	url = https://github.com/jeaw2k/random_user_api

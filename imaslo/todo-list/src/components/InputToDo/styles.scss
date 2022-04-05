@@ -1,0 +1,32 @@
+.todo-input-container {
+  padding: 20px;
+  border-radius: 5px;
+  background-color: rgba($color: #ffffff, $alpha: 0.15);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 50px;
+}
+
+.input-field {
+  height: 25px;
+  border: none;
+  padding: 3px 10px;
+  outline: none;
+  flex-basis: 75%;
+  font-size: 16px;
+  color: #242526;
+}
+
+.input-btn {
+  outline: none;
+  background-color: #09d3ac;
+  border: none;
+  font-size: 16px;
+  color: #333437;
+  font-weight: bold;
+  padding: 3px 10px;
+  height: 25px;
+  flex-basis: 20%;
+  cursor: pointer;
+}
